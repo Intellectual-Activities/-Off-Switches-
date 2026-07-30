@@ -1,3 +1,3 @@
 # Switches
 
-These files are just for appearance. Ignore them.
+These files enable or disable any script I have.
